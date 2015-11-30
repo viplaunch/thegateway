@@ -50,9 +50,9 @@ gulp.task('scripts', function () {
         'js/jquery.lettering.js',
         'js/jquery.easypiechart.js',
         'js/jquery.nicescroll.js',
-        'js/jquery.parallax.js',
+        // 'js/jquery.parallax.js',
         'js/jquery.lazyload.js',
-        'js/mediaelement-and-player.js',
+        // 'js/mediaelement-and-player.js',
         'js/jquery.slicknav.js',
         'js/script.js'])
         .pipe(concat('viplaunch.js'))
