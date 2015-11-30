@@ -6,24 +6,34 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-<url>
-  <loc>http://thegateway.viplaunch.sg/</loc>
-  <lastmod>2015-11-16T13:35:32+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://thegateway.viplaunch.sg/price/</loc>
-  <lastmod>2015-11-16T13:35:32+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://thegateway.viplaunch.sg/payment/</loc>
-  <lastmod>2015-11-16T13:35:32+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://thegateway.viplaunch.sg/register/</loc>
-  <lastmod>2015-11-16T13:35:32+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
+    <url>
+      <loc>http://thegateway.viplaunch.sg/</loc>
+      <lastmod>2015-11-30T13:35:32+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://thegateway.viplaunch.sg/location/</loc>
+        <lastmod>2015-11-30T13:35:32+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+      <loc>http://thegateway.viplaunch.sg/price/</loc>
+      <lastmod>2015-11-30T13:35:32+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+    <url>
+      <loc>http://thegateway.viplaunch.sg/payment/</loc>
+      <lastmod>2015-11-30T13:35:32+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+    <url>
+      <loc>http://thegateway.viplaunch.sg/sitemap/</loc>
+      <lastmod>2015-11-30T13:35:32+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://thegateway.viplaunch.sg/zh/</loc>
+        <lastmod>2015-11-30T13:35:32+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
 </urlset>
