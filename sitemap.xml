@@ -8,32 +8,32 @@
 
     <url>
       <loc>http://thegateway.viplaunch.sg/</loc>
-      <lastmod>2015-11-30T13:35:32+00:00</lastmod>
+      <lastmod>2015-12-01T13:35:32+00:00</lastmod>
       <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>http://thegateway.viplaunch.sg/location/</loc>
-        <lastmod>2015-11-30T13:35:32+00:00</lastmod>
+        <lastmod>2015-12-01T13:35:32+00:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     <url>
       <loc>http://thegateway.viplaunch.sg/price/</loc>
-      <lastmod>2015-11-30T13:35:32+00:00</lastmod>
+        <lastmod>2015-12-01T13:35:32+00:00</lastmod>
       <changefreq>weekly</changefreq>
     </url>
     <url>
       <loc>http://thegateway.viplaunch.sg/payment/</loc>
-      <lastmod>2015-11-30T13:35:32+00:00</lastmod>
+      <lastmod>2015-12-01T13:35:32+00:00</lastmod>
       <changefreq>weekly</changefreq>
     </url>
     <url>
-      <loc>http://thegateway.viplaunch.sg/sitemap/</loc>
-      <lastmod>2015-11-30T13:35:32+00:00</lastmod>
-      <changefreq>weekly</changefreq>
+        <loc>http://thegateway.viplaunch.sg/sitemap/</loc>
+        <lastmod>2015-12-01T13:35:32+00:00</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>http://thegateway.viplaunch.sg/zh/</loc>
-        <lastmod>2015-11-30T13:35:32+00:00</lastmod>
+        <lastmod>2015-12-01T13:35:32+00:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
 </urlset>
