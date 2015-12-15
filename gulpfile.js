@@ -43,8 +43,8 @@ gulp.task('style-minify', function () {
         .pipe(notify({message: 'style-minify task complete'}));
 });
 
-// scripts:
-gulp.task('scripts', function () {
+// script
+gulp.task('script', function () {
     return gulp.src([
         'js/jquery-2.1.4.js',
         'js/jquery.migrate.js',
@@ -58,12 +58,12 @@ gulp.task('scripts', function () {
         'js/count-to.js',
         'js/jquery.textillate.js',
         'js/jquery.lettering.js',
-        'js/jquery.easypiechart.js',
         'js/jquery.nicescroll.js',
-        // 'js/jquery.parallax.js',
         'js/jquery.lazyload.js',
-        // 'js/mediaelement-and-player.js',
         'js/jquery.slicknav.js',
+        // 'js/jquery.easypiechart.js',
+        // 'js/jquery.parallax.js',
+        // 'js/mediaelement-and-player.js',
         'js/script.js'])
         .pipe(concat('viplaunch.js'))
         .pipe(uglify())
@@ -71,7 +71,7 @@ gulp.task('scripts', function () {
             extname: '.min.js'
         }))
         .pipe(gulp.dest('js'))
-        .pipe(notify({message: 'scripts task complete'}));
+        .pipe(notify({message: 'script task complete'}));
 });
 
 // sitemap
